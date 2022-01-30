@@ -1,4 +1,8 @@
 using DotNetCore.CAP;
+using System.Threading.Tasks;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace esr_core
 {

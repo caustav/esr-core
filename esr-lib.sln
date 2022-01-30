@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esr-core", "esr-core\esr-core.csproj", "{042D15C1-9BD1-4082-ABC5-DB1C5FC5F6A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-client", "console-client\console-client.csproj", "{8AA7CFAC-7940-4F16-B884-7A2E71604C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042D15C1-9BD1-4082-ABC5-DB1C5FC5F6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D15C1-9BD1-4082-ABC5-DB1C5FC5F6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D15C1-9BD1-4082-ABC5-DB1C5FC5F6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D15C1-9BD1-4082-ABC5-DB1C5FC5F6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA7CFAC-7940-4F16-B884-7A2E71604C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA7CFAC-7940-4F16-B884-7A2E71604C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA7CFAC-7940-4F16-B884-7A2E71604C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA7CFAC-7940-4F16-B884-7A2E71604C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

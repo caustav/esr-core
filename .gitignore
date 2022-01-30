@@ -1,0 +1,6 @@
+publish/
+.vscode/
+console-client/bin
+console-client/obj
+esr-core/bin
+esr-core/obj
